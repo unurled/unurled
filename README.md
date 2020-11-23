@@ -4,7 +4,7 @@
 
 I’m currently learning at French lycee.
 
-💬 I program with java, html/css, [Skript](https://github.com/SkriptLang/Skript)
+💬 I program with java, html/css/js, [Skript](https://github.com/SkriptLang/Skript)
 
 📫 How to reach me: on Discord unurled#0149
 
