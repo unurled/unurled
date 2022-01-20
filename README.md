@@ -1,12 +1,12 @@
 # Hello! 👋
 ## I'm Unurled, I'm a little french programer.
 
-Main Project : [SkyblockRenew](https://github.com/unurled/Skyblock-Renew)
+Main Project : [Raxen](https://gitlab.com/unurled/raxen)
 
 
 I’m currently learning at French lycee.
 
-💬 I program with java, html/css/js, [Skript](https://github.com/SkriptLang/Skript), MongoDB
+💬 I program with java, HTML/CSS/JS, Rust MongoDB
 
 📫 How to reach me: on Discord @unurled#0149
 
