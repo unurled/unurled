@@ -3,7 +3,7 @@
 ## I'm Unurled, I'm a little french programer.
 
 Main Project : [Raxen](https://git.unurled.gq/elixium/raxen)\
-Main place where i'm doing something: [git](https://git.unurled.gq/unurled)
+Main place where i'm doing something and with updated projects : [git](https://git.unurled.gq/unurled)
 
 I’m currently learning at French lycee.
 
