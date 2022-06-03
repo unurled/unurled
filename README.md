@@ -1,12 +1,13 @@
 # Hello! 👋
+
 ## I'm Unurled, I'm a little french programer.
 
-Main Project : [Raxen](https://gitlab.com/unurled/raxen)
-
+Main Project : [Raxen](https://git.unurled.gq/elixium/raxen)\
+Main place where i'm doing something: [git](https://git.unurled.gq/unurled)
 
 I’m currently learning at French lycee.
 
-💬 I program with java, HTML/CSS/JS, Rust MongoDB
+💬 I can use  Java, HTML/CSS/JS, Rust, MongoDB, Python, and more 
 
 📫 How to reach me: on Discord @unurled#0149
 
