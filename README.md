@@ -9,6 +9,6 @@ I’m currently learning at French lycee.
 
 💬 I can use  Java, HTML/CSS/JS, Rust, MongoDB, Python, and more 
 
-📫 How to reach me: on Discord @unurled#0149
+📫 How to reach me: on Discord <a href="https://discordapp.com/users/369482919988690956">@unurled#0149</a>
 
-   or via mail : lch0ssah.dev@gmail.com
+   or via mail : <a href="mailto:unurled@unurled.me">unurled@unurled.me</a>
