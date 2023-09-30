@@ -5,7 +5,7 @@
 Main Project : [Raxen](https://git.unurled.me/elixium/raxen)\
 Main place where i'm doing something and with updated projects : [git](https://git.unurled.me/unurled)
 
-I’m currently learning at French lycee.
+I’m currently learning at French University.
 
 💬 I can use  Java, HTML/CSS/JS, Rust, MongoDB, Python, and more 
 
